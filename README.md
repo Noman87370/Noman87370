@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a highly motivated Computer and Communication Engineering undergraduate from International Islamic University Chittagong (IIUC)[cite: 6, 7, 9]. [cite_start]My academic journey is set to culminate in April 2025 [cite: 9][cite_start], with a strong focus on innovative solutions in **Machine Learning**, **Cybersecurity**, **Internet of Things (IoT)**, and **Smart City Solutions**[cite: 4, 5]. [cite_start]My dedication to research is reflected in my current CGPA of 3.720/4.00 [cite: 11] and my active involvement in impactful projects and publications.
+I am a highly motivated Computer and Communication Engineering undergraduate from International Islamic University Chittagong (IIUC)[cite: 6, 7, 9]. [cite_start]My academic journey is set to culminate in April 2025 [cite: 9][cite_start], with a strong focus on innovative solutions in **Machine Learning**, **Cybersecurity**, **Internet of Things (IoT)**, and **Smart City Solutions**[cite: 4, 5]. [cite_start]My dedication to research is reflected in my current CGPA of 3.720/4.00 [cite: 11] and my active involvement in impactful projects and publications.
 
 - [cite_start]**Education:** B.Sc., Computer and Communication Engineering (CCE), International Islamic University Chittagong (IIUC)[cite: 6, 7].
   - [cite_start]**Thesis Topic:** A Novel Machine Learning Approach for Deepfake Image Detection[cite: 8, 10, 45].
