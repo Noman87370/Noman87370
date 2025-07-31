@@ -17,11 +17,11 @@
 
 ### 🚀 About Me
 
-I am a highly motivated Computer and Communication Engineering undergraduate from International Islamic University Chittagong (IIUC)[cite: 6, 7, 9]. [cite_start]My academic journey is set to culminate in April 2025 [cite: 9][cite_start], with a strong focus on innovative solutions in **Machine Learning**, **Cybersecurity**, **Internet of Things (IoT)**, and **Smart City Solutions**[cite: 4, 5]. [cite_start]My dedication to research is reflected in my current CGPA of 3.720/4.00 [cite: 11] and my active involvement in impactful projects and publications.
+I am a highly motivated Computer and Communication Engineering undergraduate from International Islamic University Chittagong (IIUC)[cite: 6, 7, 9]. [cite_start]My academic journey is set to culminate in April 2025 [cite: 9][cite_start], with a strong focus on innovative solutions in **Machine Learning**, **Cybersecurity**, **Internet of Things (IoT)**, and **Smart City Solutions**. My dedication to research is reflected in my current CGPA of 3.720/4.00  and my active involvement in impactful projects and publications.
 
-- **Education:** B.Sc., Computer and Communication Engineering (CCE), International Islamic University Chittagong (IIUC)[cite: 6, 7].
-  - **Thesis Topic:** A Novel Machine Learning Approach for Deepfake Image Detection[cite: 8, 10, 45].
-- **Research Interests:** Machine Learning, Cyber security, IoT, and Smart City Solution[cite: 5].
+- **Education:** B.Sc., Computer and Communication Engineering (CCE), International Islamic University Chittagong (IIUC).
+  - **Thesis Topic:** A Novel Machine Learning Approach for Deepfake Image Detection.
+- **Research Interests:** Machine Learning, Cyber security, IoT, and Smart City Solution.
 
 ---
 
@@ -29,15 +29,15 @@ I am a highly motivated Computer and Communication Engineering undergraduate fro
 
 My research endeavors at IIUC have focused on pushing the boundaries of intelligent and secure networked systems.
 
-* **Undergraduate Researcher** | [cite_start]International Islamic University Chittagong (IIUC) [cite: 17, 18, 19] (Jul 2023 - Dec 2024) [cite_start][cite: 20]
-    * [cite_start]Published two articles in MDPI's Engineering Proceedings, with five additional manuscripts currently under review in prominent journals like IAES International Journal of Artificial Intelligence (IJ-AI), Wiley's Applied Computational Intelligence and Soft Computing, and the Journal of Computer Networks and Communications[cite: 21].
-    * [cite_start]These works primarily focus on advancements in machine learning, cybersecurity, IoT, and computer networking[cite: 22].
-    * [cite_start]Engaged in comprehensive research across these domains, yielding significant findings that contribute to the evolving landscape of intelligent and secure networked systems[cite: 23].
+* **Undergraduate Researcher** | International Islamic University Chittagong (IIUC)  (Jul 2023 - Dec 2024) .
+    * -Published two articles in MDPI's Engineering Proceedings, with five additional manuscripts currently under review in prominent journals like IAES International Journal of Artificial Intelligence (IJ-AI), Wiley's Applied Computational Intelligence and Soft Computing, and the Journal of Computer Networks and Communications-.
+    * -These works primarily focus on advancements in machine learning, cybersecurity, IoT, and computer networking-.
+    * -Engaged in comprehensive research across these domains, yielding significant findings that contribute to the evolving landscape of intelligent and secure networked systems-.
 
-* **Graduate Teaching Assistant** | [cite_start]International Islamic University Chittagong (IIUC) [cite: 25, 26, 28] (Jan 2024 - Dec 2024) [cite_start][cite: 29]
-    * [cite_start]Courses taught: Basic Electronics Sessional, Fiber Optic Communication Sessional, Machine Learning Sessional[cite: 30].
-    * [cite_start]Responsibilities included lecturing, designing lab experiments, and grading assignments and exams[cite: 36].
-    * [cite_start]Managed classes with 45+ undergraduate students[cite: 34].
+* **Graduate Teaching Assistant** | -International Islamic University Chittagong (IIUC) - (Jan 2024 - Dec 2024) -.
+    * .Courses taught: Basic Electronics Sessional, Fiber Optic Communication Sessional, Machine Learning Sessional.
+    * .Responsibilities included lecturing, designing lab experiments, and grading assignments and exams.
+    * Managed classes with 45+ undergraduate students.
 
 ---
 
