@@ -115,6 +115,4 @@ Feel free to reach out for collaborations or inquiries!
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</div>
+
