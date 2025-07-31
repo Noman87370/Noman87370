@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-I am a highly motivated Computer and Communication Engineering undergraduate from International Islamic University Chittagong (IIUC)[cite: 6, 7, 9]. [cite_start]My academic journey is set to culminate in April 2025 [cite: 9][cite_start], with a strong focus on innovative solutions in **Machine Learning**, **Cybersecurity**, **Internet of Things (IoT)**, and **Smart City Solutions**. My dedication to research is reflected in my current CGPA of 3.720/4.00  and my active involvement in impactful projects and publications.
+I am a highly motivated Computer and Communication Engineering undergraduate from International Islamic University Chittagong (IIUC).My academic journey is set to culminate in April 2025 , with a strong focus on innovative solutions in **Machine Learning**, **Cybersecurity**, **Internet of Things (IoT)**, and **Smart City Solutions**. My dedication to research is reflected in my current CGPA of 3.720/4.00  and my active involvement in impactful projects and publications.
 
 - **Education:** B.Sc., Computer and Communication Engineering (CCE), International Islamic University Chittagong (IIUC).
   - **Thesis Topic:** A Novel Machine Learning Approach for Deepfake Image Detection.
@@ -46,7 +46,7 @@ My research endeavors at IIUC have focused on pushing the boundaries of intellig
 Recognized for my innovative ideas and academic excellence:
 
 * **First Prize** for the concept of "Smart Bus Management System"  (CCE Fest 2023) .
-* **Best Poster Award** [cite: 14] (CUET Research Fair, 2023).
+* **Best Poster Award** . (CUET Research Fair, 2023).
 * **Finalist** IIUC CyberCon 2022.
 
 ---
@@ -57,8 +57,8 @@ A summary of my published and in-review works:
 
 #### Journal Publications
 
-* Kabir, M. H., Al Noman, A., Al Afiq, A., Raju, R. H., Hasan, M. N., & Ahmad. (2023). Design and Implement IoT-Based Intelligent Manageable Smart Street Lighting Systems for Future Smart City. [cite_start]*Engineering Proceedings, 56*(1), 147. [cite: 40, 41]
-* Noman, A. A., Baidya, P., Hossain, M. A., Dev, P., Saha, K., & Hossain, M. L. (2025). Design and Implementation IoT-Driven Distribution Transformer Health Monitoring System for the Smart Power Grid. [cite_start]*Engineering Proceedings, 87*(1), 27. [cite: 42, 43]
+* Kabir, M. H., Al Noman, A., Al Afiq, A., Raju, R. H., Hasan, M. N., & Ahmad. (2023). Design and Implement IoT-Based Intelligent Manageable Smart Street Lighting Systems for Future Smart City.*Engineering Proceedings, 56*(1), 147. 
+* Noman, A. A., Baidya, P., Hossain, M. A., Dev, P., Saha, K., & Hossain, M. L. (2025). Design and Implementation IoT-Driven Distribution Transformer Health Monitoring System for the Smart Power Grid.*Engineering Proceedings, 87*(1), 27. 
 
 #### Publications Under Review 
 
