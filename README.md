@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USERNAME" alt="Abdullah Al Noman" width="150" style="border-radius: 50%;">
+  <img src="#" alt="Abdullah Al Noman" width="150" style="border-radius: 50%;">
   <h1>Abdullah Al Noman</h1>
   <p>B.Sc. in Computer and Communication Engineering | Research Enthusiast | ML, Cybersecurity & IoT Advocate</p>
 
