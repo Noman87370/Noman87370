@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-I am a highly motivated Computer and Communication Engineering undergraduate from International Islamic University Chittagong (IIUC).My academic journey is set to culminate in April 2025 , with a strong focus on innovative solutions in **Machine Learning**, **Cybersecurity**, **Internet of Things (IoT)**, and **Smart City Solutions**. My dedication to research is reflected in my current CGPA of 3.720/4.00  and my active involvement in impactful projects and publications.
+I'm Abdullah Al Noman. My work is centered at the intersection of Machine Learning, the Internet of Things (IoT), and Cybersecurity. I have a keen research interest in applying Deep Learning and Computer Vision techniques to solve complex problems, particularly in Biomedical Image Classification. My dedication to research is reflected in my current CGPA of 3.720/4.00  and my active involvement in impactful projects and publications.
 
 - **Education:** B.Sc., Computer and Communication Engineering (CCE), International Islamic University Chittagong (IIUC).
   - **Thesis Topic:** A Novel Machine Learning Approach for Deepfake Image Detection.
