@@ -1,28 +1,27 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Abdullah Al Noman
+# Abdullah Al Noman
 
-### AI & Machine Learning Researcher | Computer Vision | Medical Robotics
+### Medical Engineering M.Sc. @ FAU Erlangen-Nürnberg 🇩🇪
 
-**M.Sc. Medical Engineering (Medical Robotics) @ FAU Erlangen-Nürnberg, Germany**
+**Computer Vision | Deep Learning | Medical Imaging | Medical Robotics**
 
 <p>
-  <img src="https://img.shields.io/badge/AI-Machine%20Learning-blue?style=for-the-badge&logo=artificialintelligence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer-Vision-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Medical-Robotics-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Research-Driven-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Researcher-9%20Peer--Reviewed%20Publications-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Medical%20AI-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Germany-orange?style=for-the-badge"/>
 </p>
 
 <p>
-  <a href="mailto:noman87370@gmail.com">
+  <a href="mailto:Abdullahnomanal9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/a-al-noman">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://orcid.org/0009-0002-8844-1830">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -33,162 +32,206 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm Abdullah Al Noman, an AI and Machine Learning researcher currently pursuing an **M.Sc. in Medical Engineering, specializing in Medical Robotics, at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany**.
+I am a Master's student in **Medical Engineering (Medical Robotics)** at **Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany**, with a Bachelor's degree in Computer and Communication Engineering.
 
-I hold a B.Sc. in Computer and Communication Engineering from International Islamic University Chittagong (IIUC), where I developed a strong foundation in Artificial Intelligence, Machine Learning, Computer Networks, Signal Processing, and Embedded Systems.
+My research focuses on **Deep Learning for Computer Vision, Medical Image Analysis, and Object Detection**. I have contributed to 9 peer-reviewed publications across IEEE, Springer, Wiley, and MDPI, including research in deepfake detection, brain tumor classification, intrusion detection, and intelligent IoT systems.
 
-My research interests lie at the intersection of **Artificial Intelligence, Computer Vision, Medical Imaging, Medical Robotics, and Intelligent Systems**. I enjoy developing deep learning architectures and applying AI techniques to solve real-world problems in healthcare, cybersecurity, and smart technologies.
+One of my research projects achieved **98.83% accuracy in MRI-based brain tumor classification**.
 
-### 🎯 What I'm Currently Exploring
+I am particularly interested in developing reliable, efficient, and real-time AI systems for healthcare, medical imaging, surgical robotics, and image-guided interventions.
 
-- 🤖 Medical Robotics and Intelligent Healthcare Systems
-- 🧠 Deep Learning and Neural Network Architectures
-- 👁️ Computer Vision and Medical Image Analysis
-- 🔍 Object Detection using YOLO Architectures
-- 🧬 AI-powered Biomedical Image Classification
-- 🤖 Large Language Models (LLMs) and Agentic AI
-- 🌐 Intelligent IoT and Automation Systems
+### 🎯 Current Research Interests
 
-### 🎓 Education
+- 🧠 AI-driven Medical Imaging
+- 👁️ Computer Vision and Deep Learning
+- 🩻 MRI Image Analysis and Biomedical Image Classification
+- 🤖 Medical and Surgical Robotics
+- 🎯 Image-Guided Interventions
+- 🔍 Object Detection and YOLO Architectures
+- 🧬 Healthcare AI and Intelligent Systems
+- 🤖 Large Language Models and Agentic AI
 
-- **M.Sc. in Medical Engineering (Medical Robotics)**
-  - Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany
-- **B.Sc. in Computer and Communication Engineering**
-  - International Islamic University Chittagong (IIUC), Bangladesh
-  - CGPA: 3.72/4.00
-  - Undergraduate Thesis: *A Novel Machine Learning Approach for Deepfake Image Detection*
+### 💼 Currently Open To
+
+- Working Student (Werkstudent)
+- Student Research Assistant (HiWi / Wissenschaftliche Hilfskraft)
+- Research Assistant Opportunities
+- AI, Computer Vision and Medical Imaging Research Collaborations
+
+---
+
+## 🎓 Education
+
+**Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**
+
+M.Sc. in Medical Engineering  
+Specialization: Medical Robotics  
+April 2026 – April 2028
+
+**International Islamic University Chittagong (IIUC)**
+
+B.Sc. in Computer and Communication Engineering (CCE)  
+April 2021 – April 2025  
+CGPA: 3.72/4.00
 
 ---
 
 ## 🔬 Research & Professional Experience
 
+### Independent Researcher
+**November 2024 – March 2026**
+
+- Conducted independent research in Machine Learning, Computer Vision, and IoT systems.
+- Contributed to 9 peer-reviewed publications during 2025–2026 across IEEE, Springer, Wiley, and MDPI.
+- Served as first author on 2 publications.
+- Developed and evaluated deep learning models for intelligent detection and classification tasks.
+- Worked on research involving medical imaging, cybersecurity, and intelligent systems.
+
 ### Undergraduate Researcher | IIUC
-*July 2023 – December 2024*
+**March 2024 – October 2024**
 
-- Conducted research in Machine Learning, Deep Learning, Cybersecurity, IoT, and Computer Vision.
-- Published research articles in MDPI Engineering Proceedings.
-- Worked on multiple manuscripts involving intelligent detection systems, biomedical image classification, and secure network architectures.
-- Designed and evaluated deep learning models for real-world applications.
+- Conducted research in Machine Learning and Computer Vision.
+- Developed and evaluated models through structured experimentation.
+- Built object detection and image analysis pipelines.
+- Used Python, C/C++, and MATLAB for technical development.
+- Analyzed experimental results and performed iterative model improvements.
 
-### Graduate Teaching Assistant | IIUC
-*January 2024 – December 2024*
+### Teaching Assistant | IIUC
+**March 2024 – October 2024**
 
-- Assisted in Basic Electronics Sessional.
-- Assisted in Fiber Optic Communication Sessional.
-- Assisted in Machine Learning Sessional.
-- Designed laboratory experiments and supported undergraduate students.
-- Managed laboratory classes with 45+ students.
+- Assisted in teaching Basic Electronics, Fiber Optic Communication, and Machine Learning.
+- Supported laboratory activities for 45+ undergraduate students.
+- Designed laboratory exercises and prepared course materials.
+- Assisted with practical learning activities and grading assessments.
+
+### CCE Club, IIUC
+
+**Finance Secretary | January 2024 – June 2024**
+- Managed financial records, budgeting, and expense tracking.
+
+**Member Secretary | July 2023 – December 2023**
+- Supported club administration, coordinated activities, and maintained records.
+
+**Member | January 2023 – June 2023**
+- Participated in student engagement and engineering-related activities.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,matlab"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,matlab"/>
 </p>
 
-### 🧠 AI, Machine Learning & Deep Learning
+### AI, Machine Learning & Deep Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
 </p>
 
-- Machine Learning and Deep Learning
+- Machine Learning
+- Deep Learning
 - Convolutional Neural Networks (CNN)
-- RNN, LSTM, BiLSTM and Attention Mechanisms
+- CNN-BiLSTM and Attention Mechanisms
 - YOLOv8, YOLOv9, YOLOv10 and YOLOv11
-- Graph Neural Networks (GNN)
-- Natural Language Processing (NLP)
-- Generative AI and Large Language Models
-- Medical Image Classification and Analysis
-- Object Detection and Image Processing
+- Computer Vision
+- Object Detection
+- Image Classification
+- Medical Image Analysis
+- Image Processing
 
-### 📊 Data Science & Development Tools
+### Data Science & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,anaconda,jupyter,git,github,linux,vscode,docker"/>
+  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,git,github,linux,vscode,docker"/>
 </p>
 
-- NumPy, Pandas, Matplotlib, Scikit-learn
-- Jupyter Notebook and Google Colab
+- NumPy, Pandas, Matplotlib
+- Scikit-learn
 - Roboflow
+- Google Colab
+- Jupyter Notebook
 - Git and GitHub
-- Python-based Data Analysis
 
-### 📡 Engineering & Simulation Tools
+### IoT & Embedded Systems
 
-- CST Studio Suite
-- Advanced Design System (ADS)
-- OptiSystem
-- Cisco Packet Tracer
-- MATLAB
-- Embedded Systems and NodeMCU
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+</p>
+
+- ESP32 Microcontrollers
+- NodeMCU
+- Blynk
+- Sensor-Based IoT Systems
+- Embedded Systems
 
 ---
 
-## 📚 Research Publications
+## 📚 Selected Research Publications
 
-### Journal & Conference Publications
+### 1. Deepfake Detection
 
-**1.** Kabir, M. H., Al Noman, A., Al Afiq, A., Raju, R. H., Hasan, M. N., & Ahmad. (2023).  
-*Design and Implement IoT-Based Intelligent Manageable Smart Street Lighting Systems for Future Smart City.*  
-Engineering Proceedings, 56(1), 147.
+**A YOLO Enhanced Deep Learning Model for Efficient and Scalable Deepfake Detection for Real-Time Facial Forgery Recognition in Digital Media.**
 
-**2.** Noman, A. A., Baidya, P., Hossain, M. A., Dev, P., Saha, K., & Hossain, M. L. (2025).  
-*Design and Implementation IoT-Driven Distribution Transformer Health Monitoring System for the Smart Power Grid.*  
-Engineering Proceedings, 87(1), 27.
+Research focused on applying YOLO-based deep learning techniques for efficient facial forgery detection.
 
-### 📄 Research Publications & Manuscripts Under Review
+### 2. Brain Tumor Classification
 
-- A Novel Machine Learning Approach for Deepfake Image Detection.
-- A Novel CNN-BiLSTM Model with MultiHead Attention for Efficient Intrusion Detection.
-- A Hybrid Res-BRNet Architecture for Efficient and Accurate Brain Tumor Classification.
-- Deep CNN Based System for Efficient Bangla Handwritten Character Recognition Across Multiple Classes.
-- Performance Analysis of IPSec Virtual Private Networks: Enhancing Network Security and Efficiency.
-- A Comprehensive Review of Machine Learning Techniques for DeepFake Detection.
-- Integrating YOLOv10 and Dual-Head Inference for Automated Diabetic Retinopathy Diagnosis.
+**A Hybrid Res-BRNet Architecture for Efficient and Accurate Brain Tumor Classification.**
 
-### 🔍 Research Interests
+MRI-based brain tumor classification research, achieving 98.83% accuracy.
 
-Artificial Intelligence | Medical Robotics | Computer Vision | Medical Imaging | Deepfake Detection | Cybersecurity | IoT | Agentic AI
+### 3. Intrusion Detection
+
+**A Novel CNN-BiLSTM Model with MultiHead Attention for Efficient Intrusion Detection.**
+
+Research on intelligent network intrusion detection using deep learning and attention mechanisms.
+
+### 4. IoT-Based Transformer Monitoring
+
+**Design and Implementation IoT-Driven Distribution Transformer Health Monitoring System for the Smart Power Grid.**
+
+Published in Engineering Proceedings, 2025.
+
+### 5. Smart Street Lighting
+
+**Design and Implement IoT-Based Intelligent Manageable Smart Street Lighting Systems for Future Smart City.**
+
+Published in Engineering Proceedings, 2023.
+
+### 6. Face Recognition
+
+**Face Recognition Using Pre-Trained CNN Embeddings and a Custom Deep Neural Network.**
+
+Research involving facial feature extraction and deep neural network-based recognition.
 
 ---
 
 ## 💡 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| 🕵️ Deepfake Detection | Deep learning-based facial forgery detection | Python, YOLO |
-| 🩺 Diabetic Retinopathy | Automated retinal disease diagnosis | YOLOv10, CNN |
-| 🧠 Brain Tumor Classification | AI-based biomedical image classification | CNN, Deep Learning |
-| 🔐 Intrusion Detection | Intelligent network intrusion detection | CNN-BiLSTM |
-| 🌐 Smart Street Lighting | IoT-based intelligent lighting system | IoT, NodeMCU |
-| ⚡ Transformer Monitoring | IoT-driven distribution transformer monitoring | IoT, Sensors |
-| 🦯 Smart Blind Stick | Assistive smart mobility system | NodeMCU |
-| 🚗 Obstacle Avoiding Car | Autonomous obstacle avoidance | NodeMCU, Sensors |
-| 🎮 Ping Pong Game | Interactive game developed using OpenGL | C++, OpenGL |
-| 🏫 University Management | Academic management application | Programming |
+| Project | Technologies |
+|---|---|
+| YOLO-Based Deepfake Detection | Python, YOLO, Deep Learning |
+| MRI Brain Tumor Classification | CNN, Res-BRNet |
+| Diabetic Retinopathy Diagnosis | YOLOv10, Computer Vision |
+| Intelligent Intrusion Detection | CNN-BiLSTM, Attention |
+| Smart Street Lighting | IoT, NodeMCU |
+| Transformer Health Monitoring | IoT, Sensors |
+| Smart Blind Stick | ESP32 / NodeMCU |
+| Obstacle Avoiding Car | Embedded Systems |
 
 ---
 
-## 🏆 Awards & Honors
+## 🏆 Certifications
 
-- 🥇 **First Prize** – Smart Bus Management System, CCE Fest 2023.
-- 🏅 **Best Poster Award** – CUET Research Fair 2023.
-- 🏆 **Finalist** – IIUC CyberCon 2022.
-
----
-
-## 🤝 Leadership & Community Involvement
-
-- **Chairperson** – Raozan Students Welfare Association.
-- **Finance Secretary** – CCE Club.
-- **General Member** – IEEE IIUC Robotics & Automation Society.
-- **Class Representative** – CCE 25th Batch, IIUC (July 2022 – July 2024).
+- International English Language Testing System (IELTS)
+- Machine Learning in Python Environment
+- Data Science
+- Learn Python 3 Course
 
 ---
 
@@ -208,31 +251,36 @@ Artificial Intelligence | Medical Robotics | Computer Vision | Medical Imaging |
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:noman87370@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+
+<a href="https://www.linkedin.com/in/a-al-noman">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+
+<a href="mailto:Abdullahnomanal9@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
 <a href="https://orcid.org/0009-0002-8844-1830">
-<img src="https://img.shields.io/badge/ORCID-Research%20Profile-green?style=for-the-badge&logo=orcid"/>
+<img src="https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=for-the-badge&logo=orcid"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 💬 Let's Build Something Meaningful!
+### 🤝 Let's Collaborate!
 
-I'm always interested in research collaborations, innovative AI projects, and opportunities to work on technologies that create real-world impact.
+I am interested in research collaborations and innovative projects at the intersection of Artificial Intelligence, Medical Imaging, Computer Vision, and Medical Robotics.
 
-**"Turning research into intelligent solutions through AI, innovation, and code."** 🚀
+**Building intelligent healthcare solutions through research, innovation, and code.** 🚀
 
 </div>
