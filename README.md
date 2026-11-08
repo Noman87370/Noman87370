@@ -1,118 +1,238 @@
-<div align="center">
-  
-  <h1>Abdullah Al Noman</h1>
-  <p>B.Sc. in Computer and Communication Engineering | Research Enthusiast | ML, Cybersecurity & IoT Advocate</p>
 
-  <p>
-    <a href="mailto:noman87370@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://orcid.org/0009-0002-8844-1830" target="_blank">
-      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
-    </a>
-    </p>
+<div align="center">
+
+# 👋 Hi, I'm Abdullah Al Noman
+
+### AI & Machine Learning Researcher | Computer Vision | Medical Robotics
+
+**M.Sc. Medical Engineering (Medical Robotics) @ FAU Erlangen-Nürnberg, Germany**
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-blue?style=for-the-badge&logo=artificialintelligence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer-Vision-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medical-Robotics-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Research-Driven-orange?style=for-the-badge"/>
+</p>
+
+<p>
+  <a href="mailto:noman87370@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0009-0002-8844-1830">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I'm Abdullah Al Noman. My work is centered at the intersection of Machine Learning, the Internet of Things (IoT), and Cybersecurity. I have a keen research interest in applying Deep Learning and Computer Vision techniques to solve complex problems, particularly in Biomedical Image Classification. My dedication to research is reflected in my current CGPA of 3.720/4.00  and my active involvement in impactful projects and publications.
+I'm Abdullah Al Noman, an AI and Machine Learning researcher currently pursuing an **M.Sc. in Medical Engineering, specializing in Medical Robotics, at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany**.
 
-- **Education:** B.Sc., Computer and Communication Engineering (CCE), International Islamic University Chittagong (IIUC).
-  - **Thesis Topic:** A Novel Machine Learning Approach for Deepfake Image Detection.
-- **Research Interests:** Machine Learning, Cyber security, IoT, and Smart City Solution.
+I hold a B.Sc. in Computer and Communication Engineering from International Islamic University Chittagong (IIUC), where I developed a strong foundation in Artificial Intelligence, Machine Learning, Computer Networks, Signal Processing, and Embedded Systems.
 
----
+My research interests lie at the intersection of **Artificial Intelligence, Computer Vision, Medical Imaging, Medical Robotics, and Intelligent Systems**. I enjoy developing deep learning architectures and applying AI techniques to solve real-world problems in healthcare, cybersecurity, and smart technologies.
 
-### 🔬 Research & Experience
+### 🎯 What I'm Currently Exploring
 
-My research endeavors at IIUC have focused on pushing the boundaries of intelligent and secure networked systems.
+- 🤖 Medical Robotics and Intelligent Healthcare Systems
+- 🧠 Deep Learning and Neural Network Architectures
+- 👁️ Computer Vision and Medical Image Analysis
+- 🔍 Object Detection using YOLO Architectures
+- 🧬 AI-powered Biomedical Image Classification
+- 🤖 Large Language Models (LLMs) and Agentic AI
+- 🌐 Intelligent IoT and Automation Systems
 
-* **Undergraduate Researcher** | International Islamic University Chittagong (IIUC)  (Jul 2023 - Dec 2024) .
-    * Published two articles in MDPI's Engineering Proceedings, with five additional manuscripts currently under review in prominent journals like IAES International Journal of Artificial Intelligence (IJ-AI), Wiley's Applied Computational Intelligence and Soft Computing, and the Journal of Computer Networks and Communications.
-    * These works primarily focus on advancements in machine learning, cybersecurity, IoT, and computer networking.
-    * Engaged in comprehensive research across these domains, yielding significant findings that contribute to the evolving landscape of intelligent and secure networked systems.
+### 🎓 Education
 
-* **Graduate Teaching Assistant** | -International Islamic University Chittagong (IIUC) - (Jan 2024 - Dec 2024) -.
-    * Courses taught: Basic Electronics Sessional, Fiber Optic Communication Sessional, Machine Learning Sessional.
-    * Responsibilities included lecturing, designing lab experiments, and grading assignments and exams.
-    * Managed classes with 45+ undergraduate students.
-
----
-
-### 🏆 Awards & Honors
-
-Recognized for my innovative ideas and academic excellence:
-
-* **First Prize** for the concept of "Smart Bus Management System"  (CCE Fest 2023) .
-* **Best Poster Award** . (CUET Research Fair, 2023).
-* **Finalist** IIUC CyberCon 2022.
+- **M.Sc. in Medical Engineering (Medical Robotics)**
+  - Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany
+- **B.Sc. in Computer and Communication Engineering**
+  - International Islamic University Chittagong (IIUC), Bangladesh
+  - CGPA: 3.72/4.00
+  - Undergraduate Thesis: *A Novel Machine Learning Approach for Deepfake Image Detection*
 
 ---
 
-### 📝 Publications
+## 🔬 Research & Professional Experience
 
-A summary of my published and in-review works:
+### Undergraduate Researcher | IIUC
+*July 2023 – December 2024*
 
-#### Journal Publications
+- Conducted research in Machine Learning, Deep Learning, Cybersecurity, IoT, and Computer Vision.
+- Published research articles in MDPI Engineering Proceedings.
+- Worked on multiple manuscripts involving intelligent detection systems, biomedical image classification, and secure network architectures.
+- Designed and evaluated deep learning models for real-world applications.
 
-* Kabir, M. H., Al Noman, A., Al Afiq, A., Raju, R. H., Hasan, M. N., & Ahmad. (2023). Design and Implement IoT-Based Intelligent Manageable Smart Street Lighting Systems for Future Smart City.*Engineering Proceedings, 56*(1), 147. 
-* Noman, A. A., Baidya, P., Hossain, M. A., Dev, P., Saha, K., & Hossain, M. L. (2025). Design and Implementation IoT-Driven Distribution Transformer Health Monitoring System for the Smart Power Grid.*Engineering Proceedings, 87*(1), 27. 
+### Graduate Teaching Assistant | IIUC
+*January 2024 – December 2024*
 
-#### Publications Under Review 
-
-* A. A. Noman, A. A. Afiq, M. H. Kabir, M. J. Hoque "A Novel Machine Learning Approach for Deepfake Image Detection," [Under Review]. 
-* M. J. Hoque, O. H. Mahmud, A. A. Noman, and M. N. Hasan "A Novel CNN-BiLSTM Model with MultiHead Attention for Efficient Intrusion Detection," [Under Review]. 
-* M. A. Islam, M. J. Hoque, S. M. S. K. Talib, A. A. Noman and M. I. K. Sakur "A Hybrid Res-BRNet Architecture for Efficient and Accurate Brain Tumor Classification," [Under Review]. 
-* P. Dev, A. A. Noman, M. I. Maruf, M. R. Ahmed, H. Jaki, M. H. Kabir, and A. Hoque, "Deep CNN Based System for Efficient Bangla Handwritten Character Recognition Across Multiple Classes," [Under Review].
-* F. Islam, N. R. Rafi, M. H. Kabir, and A. A. Noman, "Performance Analysis of IPSec Virtual Private Networks: Enhancing Network Security and Efficiency," [Under Review].
-* M. H. Kabir, A. A. Noman, A. A. Afiq, H. Jaki, M. N. Hasan and I. A. Mojumder, "A Comprehensive Review of Machine Learning Techniques for DeepFake Detection," [Under Review].
-* S. M. A. Alam, A. A. Noman, A. A. Afiq, H. Jaki, M. H. Kabir, and M. J. Hoque, "Integrating YOLOv10 and Dual-Head Inference for Automated Diabetic Retinopathy Diagnosis," [Under Review].
-
----
-
-### 🛠️ Technical Skills
-
-* **Machine Learning & Deep Learning:** PyTorch, GNN, Anaconda .
-* **Simulation Tools:** CST Studio Suite, ADS, Optisystem, Cisco Packet Tracer .
-* **Programming & Scripting:** Python, MATLAB, C for data analysis and engineering simulations.
-* **Communication Systems:** Analog & digital modulation techniques, signal processing, and wireless communication principles.
-* **Research & Technical Writing:** Published IEEE conference papers and journal articles, proficient in MS Office and Google Docs, Sheets, etc. for documentation.
+- Assisted in Basic Electronics Sessional.
+- Assisted in Fiber Optic Communication Sessional.
+- Assisted in Machine Learning Sessional.
+- Designed laboratory experiments and supported undergraduate students.
+- Managed laboratory classes with 45+ students.
 
 ---
 
-### 💡 Projects
+## 🛠️ Technical Skills
 
-A showcase of my hands-on experience and problem-solving skills:
+### 👨‍💻 Programming Languages
 
-* IoT-Based Intelligent Manageable Smart Street Lighting Systems .
-* NodeMCU Based Smart Blind Stick .
-* Obstacle Avoiding Car using NodeMCU.
-* Ping-Pong-Game-With-OpenGL .
-* University management system .
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,matlab"/>
+</p>
+
+### 🧠 AI, Machine Learning & Deep Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+</p>
+
+- Machine Learning and Deep Learning
+- Convolutional Neural Networks (CNN)
+- RNN, LSTM, BiLSTM and Attention Mechanisms
+- YOLOv8, YOLOv9, YOLOv10 and YOLOv11
+- Graph Neural Networks (GNN)
+- Natural Language Processing (NLP)
+- Generative AI and Large Language Models
+- Medical Image Classification and Analysis
+- Object Detection and Image Processing
+
+### 📊 Data Science & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,anaconda,jupyter,git,github,linux,vscode,docker"/>
+</p>
+
+- NumPy, Pandas, Matplotlib, Scikit-learn
+- Jupyter Notebook and Google Colab
+- Roboflow
+- Git and GitHub
+- Python-based Data Analysis
+
+### 📡 Engineering & Simulation Tools
+
+- CST Studio Suite
+- Advanced Design System (ADS)
+- OptiSystem
+- Cisco Packet Tracer
+- MATLAB
+- Embedded Systems and NodeMCU
 
 ---
 
-### 🤝 Leadership & Service
+## 📚 Research Publications
 
-Actively contributing to the academic and local community:
+### Journal & Conference Publications
 
-* **Chairperson,** Raozan Students Welfare association .
-* **Finance Secretary,** CCE Club .
-* **General Member,** IEEE IIUC Robotics & Automation Society .
-* **Class Representative,** CCE Batch 25th, IIUC, CCE Department (Jul 2022-Jul 2024) .
+**1.** Kabir, M. H., Al Noman, A., Al Afiq, A., Raju, R. H., Hasan, M. N., & Ahmad. (2023).  
+*Design and Implement IoT-Based Intelligent Manageable Smart Street Lighting Systems for Future Smart City.*  
+Engineering Proceedings, 56(1), 147.
+
+**2.** Noman, A. A., Baidya, P., Hossain, M. A., Dev, P., Saha, K., & Hossain, M. L. (2025).  
+*Design and Implementation IoT-Driven Distribution Transformer Health Monitoring System for the Smart Power Grid.*  
+Engineering Proceedings, 87(1), 27.
+
+### 📄 Research Publications & Manuscripts Under Review
+
+- A Novel Machine Learning Approach for Deepfake Image Detection.
+- A Novel CNN-BiLSTM Model with MultiHead Attention for Efficient Intrusion Detection.
+- A Hybrid Res-BRNet Architecture for Efficient and Accurate Brain Tumor Classification.
+- Deep CNN Based System for Efficient Bangla Handwritten Character Recognition Across Multiple Classes.
+- Performance Analysis of IPSec Virtual Private Networks: Enhancing Network Security and Efficiency.
+- A Comprehensive Review of Machine Learning Techniques for DeepFake Detection.
+- Integrating YOLOv10 and Dual-Head Inference for Automated Diabetic Retinopathy Diagnosis.
+
+### 🔍 Research Interests
+
+Artificial Intelligence | Medical Robotics | Computer Vision | Medical Imaging | Deepfake Detection | Cybersecurity | IoT | Agentic AI
 
 ---
 
-### 📞 Contact Me
+## 💡 Featured Projects
 
-Feel free to reach out for collaborations or inquiries!
-
-* **Email:** noman87370@gmail.com.
-* **Phone:** +8801634857308 .
-* **ORCID iD:** [0009-0002-8844-1830](https://orcid.org/0009-0002-8844-1830)
+| Project | Description | Technologies |
+|---|---|---|
+| 🕵️ Deepfake Detection | Deep learning-based facial forgery detection | Python, YOLO |
+| 🩺 Diabetic Retinopathy | Automated retinal disease diagnosis | YOLOv10, CNN |
+| 🧠 Brain Tumor Classification | AI-based biomedical image classification | CNN, Deep Learning |
+| 🔐 Intrusion Detection | Intelligent network intrusion detection | CNN-BiLSTM |
+| 🌐 Smart Street Lighting | IoT-based intelligent lighting system | IoT, NodeMCU |
+| ⚡ Transformer Monitoring | IoT-driven distribution transformer monitoring | IoT, Sensors |
+| 🦯 Smart Blind Stick | Assistive smart mobility system | NodeMCU |
+| 🚗 Obstacle Avoiding Car | Autonomous obstacle avoidance | NodeMCU, Sensors |
+| 🎮 Ping Pong Game | Interactive game developed using OpenGL | C++, OpenGL |
+| 🏫 University Management | Academic management application | Programming |
 
 ---
 
+## 🏆 Awards & Honors
 
+- 🥇 **First Prize** – Smart Bus Management System, CCE Fest 2023.
+- 🏅 **Best Poster Award** – CUET Research Fair 2023.
+- 🏆 **Finalist** – IIUC CyberCon 2022.
+
+---
+
+## 🤝 Leadership & Community Involvement
+
+- **Chairperson** – Raozan Students Welfare Association.
+- **Finance Secretary** – CCE Club.
+- **General Member** – IEEE IIUC Robotics & Automation Society.
+- **Class Representative** – CCE 25th Batch, IIUC (July 2022 – July 2024).
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+<a href="mailto:noman87370@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://orcid.org/0009-0002-8844-1830">
+<img src="https://img.shields.io/badge/ORCID-Research%20Profile-green?style=for-the-badge&logo=orcid"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Meaningful!
+
+I'm always interested in research collaborations, innovative AI projects, and opportunities to work on technologies that create real-world impact.
+
+**"Turning research into intelligent solutions through AI, innovation, and code."** 🚀
+
+</div>
